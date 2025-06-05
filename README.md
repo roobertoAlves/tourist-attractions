@@ -45,7 +45,9 @@ npm start
 ## 🤝 Contact
 
 📧 [jbetodamasceno@gmail.com](mailto:jbetodamasceno@gmail.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/roobertoalves)
+
 🔗 [GitHub](https://github.com/roobertoAlves)
 
 ⚡ Always learning and delivering creative and efficient solutions through code, design, and technology. 🚀
