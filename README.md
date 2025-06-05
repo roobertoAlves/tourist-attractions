@@ -1,6 +1,6 @@
 # 🌍 Tourist Attractions
 
-A simple application showcasing tourist attractions using JavaScript with modular components. Designed for learning and demonstration purposes.
+A simple application showcasing tourist attractions using JavaScript and Node React with modular components. Designed for learning and demonstration purposes.
 
 ## 🚀 Features
 
